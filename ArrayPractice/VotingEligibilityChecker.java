@@ -1,3 +1,4 @@
+package BridgeLabzPPP.ArrayPractice;
 import java.util.Scanner;
 
 public class VotingEligibilityChecker {
